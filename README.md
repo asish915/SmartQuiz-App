@@ -35,8 +35,7 @@ A Basic Front-end interactive Quiz Application Project
      
 
 ## 📸 Screenshots
-<p align="center">
-  <h4>Welcome page</h4><br><br>
+<p align="centre">
 <img src="welcome-page.png" height="400" width="400" />
 </p>
 
