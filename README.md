@@ -1,17 +1,16 @@
 # 🧠 SmartQuiz App
 
-A full-stack, interactive quiz application covering DSA, Java, C, SQL, and Frontend development topics. Built using **HTML, CSS, and JavaScript**, SmartQuiz App is designed to test and improve your skills in a fun, dynamic environment.
+A Basic Front-end interactive Quiz Application Project
 
 ---
 
 ## 🚀 Features
 
-- Multiple quiz categories: DSA, Java, C, SQL, Frontend Development
-- Dynamic question loading
+-  Frontend Development
+- Random questions generate
 - Real-time feedback on answers
 - Score tracking
 - User-friendly and responsive interface
-- [Add any other features, e.g., authentication, leaderboard, timer, etc.]
 
 ---
 
@@ -23,24 +22,11 @@ A full-stack, interactive quiz application covering DSA, Java, C, SQL, and Front
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<!-- Or use simple logos if you want larger icons:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
--->
-
----
-
-## 📸 Screenshots
-
-<!-- Add screenshots of your app here -->
-<!-- Example: -->
-<!-- ![Quiz Home](screenshots/home.png) -->
-<!-- ![Quiz Question](screenshots/question.png) -->
-
----
 
 ## 🚦 Getting Started
 
@@ -51,24 +37,12 @@ A full-stack, interactive quiz application covering DSA, Java, C, SQL, and Front
    ```
 
 2. **Open the project:**
-   - If it’s front-end only, open `index.html` in your browser.
-   - If there’s a backend, follow the backend setup instructions.
-
-3. **[Optional: Run backend/server (if applicable):]**
-   ```bash
-   # Example for Node.js
-   npm install
-   npm start
-   ```
-
----
+   - It’s front-end only, open `index.html` in your browser.
 
 ## 📝 Usage
 
-- Select a quiz category from the homepage.
 - Answer the questions and receive instant feedback.
 - View your score at the end of the quiz.
-- [Add more usage instructions if needed.]
 
 ---
 
@@ -78,14 +52,8 @@ Contributions are welcome! Please open an issue or submit a pull request for sug
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE) – feel free to use and modify.
-
----
-
 ## 🙋‍♂️ Author
 
 - **Asish Sarangi**
-- [GitHub](https://github.com/AsishSarangi)
+- [GitHub](https://github.com/asish915)
 - [LinkedIn](https://www.linkedin.com/in/asish-sarangi-8a33322a6)
