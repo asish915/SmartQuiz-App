@@ -35,8 +35,10 @@ A Basic Front-end interactive Quiz Application Project
      
 
 ## 📸 Screenshots
-
-![SmartQuiz Welcome Screen] <img src="welcome-page.png" height="200" width="200" />
+<p align="center">
+  <h4>Welcome page</h4><br><br>
+<img src="welcome-page.png" height="400" width="400" />
+</p>
 
 The welcome screen of SmartQuiz App greets users with a friendly introduction.
 
