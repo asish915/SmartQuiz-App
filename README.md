@@ -6,7 +6,7 @@ A Basic Front-end interactive Quiz Application Project
 
 ## 🚀 Features
 
--  Frontend Development
+- Frontend Development
 - Random questions generate
 - Real-time feedback on answers
 - Score tracking
@@ -17,9 +17,9 @@ A Basic Front-end interactive Quiz Application Project
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" />
 </p>
 
 ## 🚦 Getting Started
@@ -32,6 +32,12 @@ A Basic Front-end interactive Quiz Application Project
 
 2. **Open the project:**
    - It’s front-end only, open `index.html` in your browser.
+
+## 📸 Screenshots
+
+![SmartQuiz Welcome Screen](screenshots/welcome.png)
+
+The welcome screen of SmartQuiz App greets users with a friendly introduction.
 
 ## 📝 Usage
 
